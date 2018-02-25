@@ -10,3 +10,5 @@ It has less extraction (services / properties) than the previous one as it was q
 
 I have added in-form error labels as it is pretty cheap with a state based mechanism.
 to make it simpler I recycled the sentences from the challenge even if they are not user friendly.
+
+The main component location @src/components/Root.js
